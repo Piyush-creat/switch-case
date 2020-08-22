@@ -1,0 +1,17 @@
+#include<stidio.h>
+Int main()
+{
+int i=2
+Switch(i);
+ {
+   Case1
+    Print("choice is 1\n");
+    break;
+  Case2
+    Printf("choice is 2\n");
+     break;
+   default
+     Printf("choice is other than 1and 2\n");
+ }
+return 0
+}
